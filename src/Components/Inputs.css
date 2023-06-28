@@ -1,0 +1,49 @@
+.items{
+
+  
+    margin-left: 580px;
+    margin-top: -170px;
+    position: relative;
+}
+.first{
+    position: relative;
+    right: 80px;
+}
+.second{
+    position: relative;
+    top: 80px;
+    right: 487px;
+}
+.items input {
+    border: 1px solid #0000001A;
+    width: 400px;
+    height: 60px;
+    border-radius: 10px;
+}
+
+input::placeholder {
+    color: gray;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 0px;
+    align-items: center;
+    position: relative;
+    left: 20px;
+    top: 4px;
+}
+button{
+    
+   width: 305px;
+   height: 70px;
+   border-radius: 20px;
+   background: #84C7AE;
+   color: white;
+   border: none;
+   position: relative;
+   right: 285px;
+   top: 100px;
+   font-weight: 500;
+   font-size: 30px;
+   line-height: 0px;
+   align-items: center;
+}

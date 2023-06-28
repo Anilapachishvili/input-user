@@ -1,0 +1,38 @@
+.container{
+ display: flex;
+ justify-content: center;
+ position: relative;
+ top: 150px;
+}
+.box{
+    display: flex;
+    justify-content: center;
+    background: white;
+    width: 500px;
+    height: 500px;
+    border-radius: 49px;
+}
+.flex h1{
+    margin-top: 30px;
+    width: 483.23077392578125px;
+    height: 72.1010971069336px;
+    top: 198.4989013671875px;
+    left: 558.3846130371094px;
+    font-size: 35px;
+    font-weight: 600;
+    line-height: 72px;
+    letter-spacing: 2px;
+    text-align: center;
+    color: black;
+}
+.flex p{
+    margin-top: -5px;
+    width: 472.4923400878906px;
+    height: 59.82857131958008px;
+    font-size: 15px;
+    font-weight: 450;
+    line-height: 25px;
+    letter-spacing: 0em;
+    text-align: center;
+    color: black;
+}
